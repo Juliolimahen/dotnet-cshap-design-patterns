@@ -1,0 +1,1 @@
+# dotnet-cshap-design-patterns
